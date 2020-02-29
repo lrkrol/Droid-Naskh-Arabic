@@ -4,6 +4,6 @@ The Apache-licensed [Droid Arabic Naskh](https://github.com/jenskutilek/free-fon
 
 ![Droid Naskh+Serif example](droidnaskhserif.png)
 
-Droid Arabic Naskh is also licensed under the Apache License Version 2.0.
+Droid Naskh+Serif is also licensed under the Apache License Version 2.0.
 
 See also the [Sahl Naskh](https://github.com/khaledhosny/sahl-naskh) font which merges the same two fonts and applies some fixes to the Arabic set, but does not contain Greek or Cyrillic.
