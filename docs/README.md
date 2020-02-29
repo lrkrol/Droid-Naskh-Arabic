@@ -2,7 +2,7 @@
 
 Extended version of Droid Arabic Naskh using Droid Serif.
 
-The Apache-licensed [Droid Arabic Naskh](https://github.com/jenskutilek/free-fonts/tree/master/Droid/Droid Arabic Naskh/TTF) font lacks basic punctuation, mathematical operators, Latin characters, et cetera. Droid Naskh+Serif extends Droid Arabic Naskh by merging it with Apache-licensed [Droid Serif](https://github.com/jenskutilek/free-fonts/tree/master/Droid/Droid Serif/TTF) for increased coverage. This was done using [FontForge](https://github.com/fontforge/fontforge). 
+The Apache-licensed [Droid Arabic Naskh](https://github.com/jenskutilek/free-fonts/tree/master/Droid/Droid%20Arabic%20Naskh/TTF) font lacks basic punctuation, mathematical operators, Latin characters, et cetera. Droid Naskh+Serif extends Droid Arabic Naskh by merging it with Apache-licensed [Droid Serif](https://github.com/jenskutilek/free-fonts/tree/master/Droid/Droid%20Serif/TTF) for increased coverage. This was done using [FontForge](https://github.com/fontforge/fontforge). 
 
 ![Droid Naskh+Serif example](droidnaskhserif.png)
 
